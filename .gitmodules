@@ -5,6 +5,9 @@
 [submodule "jointCalib"]
 	path = jointCalib
 	url = https://github.com/ncn-foreigners/jointcalib
+[submodule "nonprobsvy"]
+	path = nonprobsvy
+	url = https://github.com/ncn-foreigners/nonprobsvy
 [submodule "singleRcapture"]
 	path = singleRcapture
 	url = https://github.com/ncn-foreigners/singlercapture
