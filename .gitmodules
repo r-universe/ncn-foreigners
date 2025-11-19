@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "automatedRecLin"]
+	path = automatedRecLin
+	url = https://github.com/ncn-foreigners/automatedreclin
 [submodule "blocking"]
 	path = blocking
 	url = https://github.com/ncn-foreigners/blocking
